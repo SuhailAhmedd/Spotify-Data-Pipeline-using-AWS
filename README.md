@@ -15,7 +15,7 @@ The main goal of this project is to develop an ETL pipeline that extracts artist
 - Building an analytics layer for SQL queries and business intelligence using Athena.
 
 ## Architecture Diagram
-![ETL Architecture Diagram](Architecture Diagram.jpg)
+![ETL Model Diagram](Architecture-Diagram.jpg)
 
 ## Tools Used
 - **Python**
