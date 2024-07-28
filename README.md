@@ -15,7 +15,7 @@ The main goal of this project is to develop an ETL pipeline that extracts artist
 - Building an analytics layer for SQL queries and business intelligence using Athena.
 
 ## Architecture Diagram
-![ETL Architecture Diagram](path/to/architecture-diagram.png)
+![ETL Architecture Diagram](Architecture Diagram.jpg)
 
 ## Tools Used
 - **Python**
@@ -61,8 +61,8 @@ These are the overall steps in the process:
 - Data catalog manages metadata repository.
 - Query S3 data using Athena.
 
-## ETL Model Diagram
-![ETL Model Diagram](path/to/etl-model-diagram.png)
+## Data Model Diagram
+![ETL Model Diagram](Data Model.jpg)
 
 ## Detailed Steps
 ### Step 1: Create a Lambda Layer
